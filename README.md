@@ -1,15 +1,7 @@
 # BIO Projekt
 
-
-### Links: 
-#### Sprawozdanie: 
-https://docs.google.com/document/d/1Lvb8Sa1i4OFSQmi1mHFQtsesme-2UHtwgaEteQzUgxQ/edit
-#### Marta Kasprzak: 
-http://www.cs.put.poznan.pl/mkasprzak/bio/lab.html
 #### Dane:
 http://www.cs.put.poznan.pl/mkasprzak/bio/testy.html
-#### Brudnopis:
-https://docs.google.com/document/d/1dZK8SbgYC9btR5wzfPoyDmcMmcpPI5NVUTHEwX4OqRQ/edit
 
 Wprowadzenie
 Problemy sekwencjonowania łańcuchów DNA, z wykorzystaniem standardowych bibliotek oligonukleotydów o stałej długości i przy założeniu obecności odpowiednio błędów negatywnych lub pozytywnych w danych wejściowych, mogą zostać sformułowane następująco. Pojęcie "idealne spektrum" oznacza kompletny i bezbłędny zbiór słów o jednakowej długości l, które można wyodrębnić w sekwencji o długości n, gdzie l ≤ n.
@@ -30,10 +22,3 @@ Projekt realizowany na zajęciach laboratoryjnych podzielony jest na dwa etapy, 
 Drugi etap polega na zaimplementowaniu i przetestowaniu opracowanej wcześniej heurystyki dla problemu 3. Testy należy przeprowadzić co najmniej na obowiązkowych zbiorach instancji testowych. Mile widziane dodatkowe testy na instancjach wygenerowanych we własnym zakresie, zwłaszcza trudnych; proszę wtedy zwrócić uwagę na to, żeby kolejność podawanych algorytmowi słów była przypadkowa (nie podpowiadała rozwiązania). W sprawozdaniu należy zamieścić wyniki testów (czas obliczeń i jakość generowanych rozwiązań), porównanie działania heurystyki dla zbiorów testowych różniących się rodzajem zawartych błędów, wnioski obejmujące plusy i minusy zaproponowanego rozwiązania.
 
 Projekt realizowany jest w grupach dwuosobowych, ewentualnie jednoosobowo. Program nie potrzebuje interfejsu graficznego, język implementacji dowolny. Sprawozdania należy oddawać wyłącznie na nośniku papierowym (wydrukowane bądź napisane odręcznie). Na ocenę wpłynie oryginalność i zaawansowanie metody, jakość generowanych rozwiązań oraz złożoność obliczeniowa algorytmu.
-
-Terminy oddania sprawozdań i prezentacji programu
-Sprawozdanie 1: do 20 kwietnia 2023.
-Sprawozdanie 2: do 7 czerwca 2023.
-Prezentacja programu: grupa środowa do 14 czerwca 2023, grupy czwartkowe do 15 czerwca 2023.
-
-Każdy tydzień spóźnienia w stosunku do podanych powyżej terminów skutkuje obniżeniem oceny o kolejne 0,5 stopnia (do granicy 3,0 w przypadku wystawienia oceny pozytywnej). Zostanie wystawiona jedna ocena końcowa, bez ocen cząstkowych za poszczególne sprawozdania.
